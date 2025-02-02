@@ -180,7 +180,7 @@
 			children = (
 				D5D1A1AF26853033000F126D /* ChatViewModel.swift */,
 				D5D1A1B12685304D000F126D /* ChatViewModelProtocol.swift */,
-				D5D1A1CC268540F2000F126D /* DataSourceFactoryu */,
+				D5D1A1CC268540F2000F126D /* DataSourceFactory */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -194,13 +194,13 @@
 			path = View;
 			sourceTree = "<group>";
 		};
-		D5D1A1CC268540F2000F126D /* DataSourceFactoryu */ = {
+		D5D1A1CC268540F2000F126D /* DataSourceFactory */ = {
 			isa = PBXGroup;
 			children = (
 				D5D1A1C726853CF1000F126D /* ChatDataSourceFactory.swift */,
 				D5D1A1CA2685409A000F126D /* ChatDataSourceFactoryProtocol.swift */,
 			);
-			path = DataSourceFactoryu;
+			path = DataSourceFactory;
 			sourceTree = "<group>";
 		};
 		D5D1A1CF26854ECA000F126D /* Objects */ = {
